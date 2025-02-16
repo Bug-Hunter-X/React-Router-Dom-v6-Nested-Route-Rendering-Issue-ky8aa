@@ -1,0 +1,1 @@
+In React Router Dom v6,  encountered an issue where nested routes weren't rendering correctly. The parent route would render, but its child routes remained blank, despite having valid components and paths defined. This happened even after thoroughly checking for typos in paths and ensuring correct component imports.
