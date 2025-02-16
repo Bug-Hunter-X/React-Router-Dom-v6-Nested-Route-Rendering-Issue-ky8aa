@@ -1,0 +1,1 @@
+This repository demonstrates a bug and its solution related to nested routes in React Router Dom v6. The bug involves nested routes failing to render, leaving child route components blank. The solution provides a corrected implementation ensuring proper rendering of nested routes.
